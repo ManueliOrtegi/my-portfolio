@@ -1,0 +1,21 @@
+import Profile from "../component/Profile";
+import About from "../component/About";
+import Projects from "../component/Projects";
+import Contact from "../component/Contact";
+
+export default function Home() {
+  return (
+    <main>
+      <Profile />
+      <section id="about">
+        <About />
+      </section>
+      <section id="projects">
+        <Projects />
+      </section>
+      <section id="contact">
+        <Contact />
+      </section>
+    </main>
+  );
+}
