@@ -2,6 +2,7 @@ import Profile from "../component/Profile";
 import About from "../component/About";
 import Projects from "../component/Projects";
 import Contact from "../component/Contact";
+import Skills from "../component/Skills";
 
 export default function Home() {
   return (
@@ -9,6 +10,9 @@ export default function Home() {
       <Profile />
       <section id="about">
         <About />
+      </section>
+      <section id="skills">
+        <Skills />
       </section>
       <section id="projects">
         <Projects />
