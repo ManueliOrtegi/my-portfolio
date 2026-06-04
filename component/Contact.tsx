@@ -22,7 +22,7 @@ export default function Contact() {
               <h5>LinkedIn</h5>
               <p>
                 <a href="https://www.linkedin.com/in/manuel-ortega-32aa6a16a/" target="_blank" rel="noopener noreferrer">
-                  linkedin.com/in/manuel-ortega
+                  linkedin.com
                 </a>
               </p>
             </div>
@@ -32,7 +32,7 @@ export default function Contact() {
               <h5>GitHub</h5>
               <p>
                 <a href="https://github.com/ManueliOrtegi" target="_blank" rel="noopener noreferrer">
-                  github.com/manuel-ortega
+                  github.com
                 </a>
               </p>
             </div>

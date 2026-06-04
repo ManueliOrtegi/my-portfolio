@@ -7,7 +7,7 @@
   --secondary-color: #6c757d;
 }
 
-@media (prefers-color-scheme: dark) {
+@media (prefers-color-scheme: system) {
   :root {
     --background: #0a0a0a;
     --foreground: #ededed;
