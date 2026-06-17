@@ -53,10 +53,10 @@ export default function Projects() {
   return (
     <section className="projects-page">
       <div className="container">
-        <h2 className="projects-title">My Projects</h2>
+        <h2 className="projects-title">Employment History</h2>
         <p className="projects-subtitle">
-          Here are some of the key projects Ive developed showcasing my
-          expertise in full-stack development
+          Here is a summary of the companies I&apos;ve worked with, showcasing
+          my experience in full-stack development.
         </p>
 
         <div className="projects-grid">
