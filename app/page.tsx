@@ -2,6 +2,7 @@ import Profile from "../component/Profile";
 import About from "../component/About";
 import Projects from "../component/Projects";
 import Contact from "../component/Contact";
+import EmploymentHistory from "../component/EmploymentHistory";
 import Skills from "../component/Skills";
 
 export default function Home() {
@@ -16,6 +17,9 @@ export default function Home() {
       </section>
       <section id="projects">
         <Projects />
+      </section>
+      <section id="projects">
+        <EmploymentHistory />
       </section>
       <section id="contact">
         <Contact />
