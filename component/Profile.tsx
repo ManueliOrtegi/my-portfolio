@@ -30,6 +30,7 @@ export default function Profile() {
                 <h4>Backend</h4>
                 <p>ASP.NET Core • C# • RESTful APIs</p>
                 <p>Entity Framework • SQL Server • CQRS</p>
+                <p>OpenAPI/Swagger • OAuth/ OIDC • JWT/ Bearer Token</p>
               </div>
             </div>
             <div className="col-md-6 col-lg-4">
@@ -49,7 +50,7 @@ export default function Profile() {
             <div className="col-md-6 col-lg-4">
               <div className="stack-category">
                 <h4>Tools & Methodologies</h4>
-                <p>SQL • Git • Visual Studio • VS Code</p>
+                <p>SQL • Git • Visual Studio • VS Code • Postman</p>
                 <p>Azure DevOps • Agile Scrum • Claude AI</p>
               </div>
             </div>

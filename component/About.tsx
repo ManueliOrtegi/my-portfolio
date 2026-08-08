@@ -65,7 +65,7 @@ export default function About() {
             <div className="expertise-grid">
               <div className="expertise-box">
                 <h5>Backend Development</h5>
-                <p>ASP.NET Core, C#, RESTful APIs, Entity Framework, CQRS pattern, SQL Server</p>
+                <p>ASP.NET Core, C#, RESTful APIs, Entity Framework, CQRS pattern, SQL Server, OpenAPI/Swagger, OAuth/ OIDC, JWT/ Bearer Token</p>
               </div>
               <div className="expertise-box">
                 <h5>Frontend Development</h5>
@@ -77,7 +77,7 @@ export default function About() {
               </div>
               <div className="expertise-box">
                 <h5>Tools & Practices</h5>
-                <p>Git, Azure DevOps, Agile Scrum, xUnit Testing, Code Review, Clean Architecture</p>
+                <p>Git, Azure DevOps, Agile Scrum, xUnit/ nUnit Testing, Code Review, Clean Architecture</p>
               </div>
             </div>
           </div>
