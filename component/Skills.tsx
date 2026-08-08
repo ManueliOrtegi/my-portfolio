@@ -50,15 +50,39 @@ export default function Skills() {
     },
     {
         id: 9,
+        name: "nUnit Testing",
+        category: "Testing",
+        description: "Experienced in writing unit and integration tests using nUnit framework.",
+    },
+    {
+        id: 10,
         name: "WinForms",
         category: "Desktop Development",
         description: "Proficient in building desktop applications using WinForms, VB.NET and C#.NET.",
     },
     {
-        id: 10,
+        id: 11,
         name: "VB.NET",
         category: "Desktop Development",
         description: "Experienced in developing desktop applications using VB.NET and WinForms.",
+    },
+    {
+        id: 12,
+        name: "Hangfire",
+        category: "Backend",
+        description: "Experienced in background job processing and scheduling using Hangfire.",
+    },
+    {
+        id: 13,
+        name: "Solution Architecture",
+        category: "Backend",
+        description: "Experienced in designing and implementing clean architecture for scalable and maintainable software systems.",
+    },
+    {
+        id: 14,
+        name: "REST APIs",
+        category: "Backend",
+        description: "Experienced in designing and implementing RESTful APIs for scalable and maintainable software systems.",
     },
   ];
 

@@ -42,7 +42,7 @@ export default function Projects() {
     },
     {
       id: 6,
-      CompanyName: "Axesscom Philippines Inc",
+      CompanyName: "Axesscom Philippines Inc / Baker McKenzie",
       title: "Senior .NET Developer",
       description:
         "Clark Center 11, Unit 3 Jose Abad Santos Avenue, Pinatubo Extension Clark Freeport Zone, 2023, Clark Freeport, Zone, 2023 Pampanga",
