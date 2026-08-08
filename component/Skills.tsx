@@ -84,6 +84,12 @@ export default function Skills() {
         category: "Backend",
         description: "Experienced in designing and implementing RESTful APIs for scalable and maintainable software systems.",
     },
+    {
+        id: 15,
+        name: "OpenAPI/Swagger",
+        category: "Backend",
+        description: "Experienced in designing and implementing APIs using OpenAPI/Swagger for scalable and maintainable software systems.",
+    },
   ];
 
   return (
